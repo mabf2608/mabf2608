@@ -5,7 +5,7 @@ I am a student 👨‍🎓 of Multiplatform Applications Development in the inst
 - 🚀 I'm currently learning by my own the Videogames Engine "Godot".
 - 🤔 I’m looking for help with Java.
 - 📫 How to reach me: 
+      
+  > 💼 LinkedIn: https://www.linkedin.com/in/miguel-%C3%A1ngel-bonilla-fern%C3%A1ndez-41573423b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-      > 💼 LinkedIn: https://www.linkedin.com/in/miguel-%C3%A1ngel-bonilla-fern%C3%A1ndez-41573423b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-      > ✉ Mail: mabf2002@gmail.com
+  > ✉ Mail: mabf2002@gmail.com
