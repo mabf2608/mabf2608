@@ -28,12 +28,12 @@
       <img align="right" alt="GIF" src="./assets/img/1.gif" width="400"/>
     </td>
   </tr>
-  <p align="center">
-  [![Gmail Badge](https://img.shields.io/badge/-ing.mabf2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabf2002@gmail.com)](mailto:mabf2002@gmail.com)
-  [![Linkedin Badge](https://img.shields.io/badge/-mabf2608-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mabf2608)](https://www.linkedin.com/in/mabf2608)
-  [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mabf2608)](https://github.com/mabf2608)
-  </p>
 </table>
+
+[![Gmail Badge](https://img.shields.io/badge/-ing.mabf2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabf2002@gmail.com)](mailto:mabf2002@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mabf2608-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mabf2608)](https://www.linkedin.com/in/mabf2608)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mabf2608)](https://github.com/mabf2608)
+
 
 <img src="./assets/img/divisor.gif" alt="divisor" />
 
