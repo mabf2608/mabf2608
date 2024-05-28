@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td style="border: none;" width="50%" align="center">
-      <img alt="GIF" src="./assets/img/1.gif" width="450"/>
+      <img alt="GIF" src="./assets/img/1.gif"/>
     </td>
   </tr>
 </table>
