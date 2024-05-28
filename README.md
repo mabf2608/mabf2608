@@ -4,9 +4,9 @@
 
 <h1 align="center">Hey!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<table style="border: none;">
+<table style="border: none;" align="center">
   <tr style="border: none;">
-    <td style="border: none;">
+    <td style="border: none;" width="50%">
       <ul>
         <li>
           🦔 Hi, I'm Miguel Angel Bonilla Fernandez.
@@ -21,14 +21,16 @@
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/mabf2608?tab=repositories).
         </li>
         <li>
-          🎮 Since I was a child I have been very interested in learning about video game development, that's why I'm here.
+          🎮 Since I was a child I have been very interested in learning about videogame development, that's why I'm here.
         </li>
+      </ul>
     </td>
-    <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/img/1.gif" width="400"/>
+    <td style="border: none;" width="50%" align="center">
+      <img alt="GIF" src="./assets/img/1.gif" width="450"/>
     </td>
   </tr>
-
+</table>
+      
 <p align="center">
   <a href="mailto:mabf2002@gmail.com">
         <img src="https://img.shields.io/badge/mabf2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabf2002@gmail.com" alt="Gmail Badge">
@@ -65,11 +67,3 @@
   <code><a href="https://www.python.org"><img alt="Python" title="HTML 5" src="./assets/img/Python.png" height="50"></a></code>
   
 </p>
-
-
-
-<img src="./assets/img/divisor.gif" alt="divisor" />
-      
-  > 💼 LinkedIn: <a href=>Click here.</a>
-
-  > ✉ Mail: mabf2002@gmail.com
