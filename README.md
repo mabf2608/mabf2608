@@ -11,10 +11,10 @@
     <td style="border: none;" width="50%">
       <ul>
         <li>
-          🦔 Hi, I'm Miguel Ángel Bonilla Fernández.
+          🦔 I'm Miguel Ángel Bonilla Fernández.
         </li>
         <li>
-          🏖️ I'm 21 years old developer from Málaga - Spain. 
+          🏖️ I'm a 21 years old developer from Málaga - Spain. 
         </li>
         <li>
           🏫 Currently studying at CPFIP - Alan Turing.
