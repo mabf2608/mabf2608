@@ -32,7 +32,6 @@
   [![Gmail Badge](https://img.shields.io/badge/-ing.mabf2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabf2002@gmail.com)](mailto:mabf2002@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-mabf2608-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mabf2608)](https://www.linkedin.com/in/mabf2608)
   [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mabf2608)](https://github.com/mabf2608)
-
   </p>
 </table>
 
@@ -50,8 +49,6 @@
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/img/java.webp" height="50"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/VirtualBox"><img alt="VirtualBox" title="VirtualBox" src="./assets/img/Virtualbox_logo.png" height="50"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/MySQL"><img alt="MySQL" title="MySQL" src="./assets/img/mysql.png" height="50"></a></code>
-</p>
-
 <h2 align="left"> 📖 Technologies and Tools I'm Learning:</h2>
 
 <p align="center">
