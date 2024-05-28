@@ -35,13 +35,13 @@
       
 <p align="center">
   <a href="mailto:mabf2002@gmail.com">
-        <img src="https://img.shields.io/badge/mabf2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabf2002@gmail.com" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/mabf2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabf2002@gmail.com" alt="Gmail Badge">
   </a>
   <a href="https://www.linkedin.com/in/mabf2608">
-        <img src="https://img.shields.io/badge/-mabf2608-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mabf2608" alt="Linkedin Badge">
+    <img src="https://img.shields.io/badge/-mabf2608-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mabf2608" alt="Linkedin Badge">
   </a>
   <a href="https://github.com/mabf2608">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mabf2608" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mabf2608" alt="GitHub Badge">
   </a>
 </p>
 
@@ -69,13 +69,26 @@
   <code><a href="https://en.wikipedia.org/wiki/Angular_(web_framework)"><img alt="Angular" title="Angular" src="./assets/img/Angular.png" height="50"></a></code>  
 </p>
 
-<h2  align="center">📈 GitHub Stats 📈 </h2>
+<img src="./assets/img/divisor.gif" alt="divisor" />
 
-[![mabf2608 GitHub stats](https://github-readme-stats.vercel.app/api?username=mabf2608&theme=algolia)](https://github.com/mabf2608/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabf2608&theme=algolia)](https://github.com/mabf2608/github-readme-stats)
+<h2 align="center">📈 GitHub Stats 📈 </h2>
 
-<h2  align="center">🏆 GitHub Thropies 🏆</h2>
+<p align="center">
+  <a href="https://github.com/mabf2608/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mabf2608&theme=algolia" alt="GitHub Stats1"  height="250px">
+  </a>
+  <a href="https://github.com/mabf2608/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabf2608&theme=algolia" alt="GitHub Stats1"  height="250px">
+  </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mabf2608)](https://github.com/mabf2608/github-profile-trophy)
+<h2 align="center">🏆 GitHub Thropies 🏆</h2>
+
+<p align="center">
+  <a href="https://github.com/mabf2608/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mabf2608" alt="GitHub Stats1">
+  </a>
+</p>
 
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
