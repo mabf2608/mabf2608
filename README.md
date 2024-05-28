@@ -1,8 +1,10 @@
-<h1 align="center">
+<div align="center">
   <img src="./assets/img/nombre.png" alt="Miguel Angel Bonilla" />
-</h1>
+</div>
 
 <h1 align="center">Hey!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+
+<h2 align="center"> 👾 Things About Me 👨🏼‍💻</h2>
 
 <table style="border: none;" align="center">
   <tr style="border: none;">
@@ -45,7 +47,7 @@
 
 <img src="./assets/img/divisor.gif" alt="divisor" />
 
-<h2 align="left"> 🛠️ Technologies and Tools that I Know:</h2>
+<h2 align="center"> 🛠️ Technologies and Tools that I Know 🛠️</h2>
 
 <p align="center">
   <code><a href="https://code.visualstudio.com"><img alt="VSCode" title="VSCode" src="./assets/img/vscode.webp" height="50"></a></code>
@@ -57,7 +59,8 @@
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/img/java.webp" height="50"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/VirtualBox"><img alt="VirtualBox" title="VirtualBox" src="./assets/img/Virtualbox_logo.png" height="50"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/MySQL"><img alt="MySQL" title="MySQL" src="./assets/img/mysql.png" height="50"></a></code>
-<h2 align="left"> 📖 Technologies and Tools I'm Learning:</h2>
+
+<h2 align="center"> 📖 Technologies and Tools I'm Learning 📖</h2>
 
 <p align="center">
   <code><a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img alt="Unity" title="Unity" src="./assets/img/unity.png" height="50"></a></code>
