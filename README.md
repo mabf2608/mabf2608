@@ -83,13 +83,4 @@
   </a>
 </p>
 
-<h2 align="center">🏆 GitHub Thropies 🏆</h2>
-
-<p align="center">
-  <a href="https://github.com/mabf2608/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mabf2608" alt="GitHub Stats1">
-  </a>
-</p>
-
-
 <h2 align="center">💻 Check Out My Repos ⬇️ </h2>
