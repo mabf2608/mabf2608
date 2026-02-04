@@ -23,7 +23,7 @@
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/mabf2608?tab=repositories).
         </li>
         <li>
-          🎮 Since I was a child I have been very interested in learning about videogame development, that's why I'm here.
+          🎮 Since childhood, I have been very interested in learning about video game development and cybersecurity, which is why I am here.
         </li>
       </ul>
     </td>
