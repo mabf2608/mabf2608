@@ -72,15 +72,4 @@
 
 <img src="./assets/img/divisor.gif" alt="divisor" />
 
-<h2 align="center">📈 GitHub Stats 📈 </h2>
-
-<p align="center">
-  <a href="https://github.com/mabf2608/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mabf2608&theme=algolia" alt="GitHub Stats1"  height="250px">
-  </a>
-  <a href="https://github.com/mabf2608/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabf2608&theme=algolia" alt="GitHub Stats1"  height="250px">
-  </a>
-</p>
-
 <h2 align="center">💻 Check Out My Repos ⬇️ </h2>
