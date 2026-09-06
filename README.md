@@ -14,7 +14,7 @@
           🦔 I'm Miguel Ángel Bonilla Fernández.
         </li>
         <li>
-          🏖️ I'm a 23 years old developer from Málaga - Spain. 
+          🏖️ I'm a 24 years old developer from Málaga - Spain. 
         </li>
         <li>
           🏫 Currently studying at CPFIP - Alan Turing.
