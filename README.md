@@ -67,7 +67,7 @@
   <code><a href="https://en.wikipedia.org/wiki/Angular_(web_framework)"><img alt="Angular" title="Angular" src="./assets/img/Angular.png" height="50"></a></code>
   <code><a href="https://kotlinlang.org"><img alt="Kotlin" title="Kotlin" src="./assets/img/Kotlin_logo.png" height="50"></a></code>   
   <code><a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)"><img alt="C" title="C" src="./assets/img/C_Logo.png" height="50"></a></code>
-  <code><a href="https://es.wikipedia.org/wiki/Vim"><img alt="Vim" title="Vim" src="./assets/img/Vimlogo.sv.webp" height="50"></a></code> 
+  <code><a href="https://es.wikipedia.org/wiki/Vim"><img alt="Vim" title="Vim" src="./assets/img/Vimlogo.svg.webp" height="50"></a></code> 
 </p>
 
 <img src="./assets/img/divisor.gif" alt="divisor" />
