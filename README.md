@@ -63,11 +63,11 @@
 <h2 align="center"> 📖 Technologies and Tools I'm Learning 📖</h2>
 
 <p align="center">
-  <code><a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img alt="Unity" title="Unity" src="./assets/img/unity.png" height="50"></a></code>
-  <code><a href="https://es.wikipedia.org/wiki/C_Sharp"><img alt="C#" title="C#" src="./assets/img/Logo_C_sharp.png" height="50"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/TypeScript"><img alt="TypeScript" title="TypeScript" src="./assets/img/Typescript.png" height="50"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/Angular_(web_framework)"><img alt="Angular" title="Angular" src="./assets/img/Angular.png" height="50"></a></code>
-  <code><a href="https://kotlinlang.org"><img alt="Kotlin" title="Kotlin" src="./assets/img/Kotlin_logo.png" height="50"></a></code>    
+  <code><a href="https://kotlinlang.org"><img alt="Kotlin" title="Kotlin" src="./assets/img/Kotlin_logo.png" height="50"></a></code>   
+  <code><a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)"><img alt="C" title="C" src="./assets/img/C_Logo.png" height="50"></a></code>
+  <code><a href="https://es.wikipedia.org/wiki/Vim"><img alt="Vim" title="Vim" src="./assets/img/Vimlogo.sv.webp" height="50"></a></code> 
 </p>
 
 <img src="./assets/img/divisor.gif" alt="divisor" />
