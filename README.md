@@ -17,7 +17,7 @@
           🏖️ I'm a 24 years old developer from Málaga - Spain. 
         </li>
         <li>
-          🏫 Currently studying at CPFIP - Alan Turing.
+          🏫 Currently studying at 42 Málaga and IES Playamar.
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/mabf2608?tab=repositories).
@@ -65,7 +65,8 @@
 <p align="center">
   <code><a href="https://en.wikipedia.org/wiki/TypeScript"><img alt="TypeScript" title="TypeScript" src="./assets/img/Typescript.png" height="50"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/Angular_(web_framework)"><img alt="Angular" title="Angular" src="./assets/img/Angular.png" height="50"></a></code>
-  <code><a href="https://kotlinlang.org"><img alt="Kotlin" title="Kotlin" src="./assets/img/Kotlin_logo.png" height="50"></a></code>   
+  <code><a href="https://kotlinlang.org"><img alt="Kotlin" title="Kotlin" src="./assets/img/Kotlin_logo.png" height="50"></a></code>
+  <code><a href="https://developer.android.com/studio?hl=es-419"><img alt="AndroidStudio" title="AndroidStudio" src="./assets/img/as_logo.webp" height="50"></a></code>  
   <code><a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)"><img alt="C" title="C" src="./assets/img/C_Logo.png" height="50"></a></code>
   <code><a href="https://es.wikipedia.org/wiki/Vim"><img alt="Vim" title="Vim" src="./assets/img/Vimlogo.svg.webp" height="50"></a></code> 
 </p>
