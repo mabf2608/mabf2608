@@ -63,10 +63,9 @@
 <h2 align="center"> 📖 Technologies and Tools I'm Learning 📖</h2>
 
 <p align="center">
-  <code><a href="https://en.wikipedia.org/wiki/TypeScript"><img alt="TypeScript" title="TypeScript" src="./assets/img/Typescript.png" height="50"></a></code>
-  <code><a href="https://en.wikipedia.org/wiki/Angular_(web_framework)"><img alt="Angular" title="Angular" src="./assets/img/Angular.png" height="50"></a></code>
-  <code><a href="https://kotlinlang.org"><img alt="Kotlin" title="Kotlin" src="./assets/img/Kotlin_logo.png" height="50"></a></code>
-  <code><a href="https://developer.android.com/studio?hl=es-419"><img alt="AndroidStudio" title="AndroidStudio" src="./assets/img/as_logo.webp" height="50"></a></code>  
+  <code><a href="https://eclipseide.org/"><img alt="Eclipse IDE" title="Eclipse IDE" src="./assets/img/3029968.webp" height="50"></a></code>
+  <code><a href="https://flutter.dev/"><img alt="Flutter" title="Flutter" src="./assets/img/free-aleteo-logo-icon-svg-download-png-2944876.webp" height="50"></a></code>
+  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/img/python_logo_icon_168886.webp" height="50"></a></code>
   <code><a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)"><img alt="C" title="C" src="./assets/img/C_Logo.png" height="50"></a></code>
   <code><a href="https://es.wikipedia.org/wiki/Vim"><img alt="Vim" title="Vim" src="./assets/img/Vimlogo.svg.webp" height="50"></a></code> 
 </p>
