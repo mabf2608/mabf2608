@@ -14,10 +14,10 @@
           🦔 I'm Miguel Ángel Bonilla Fernández.
         </li>
         <li>
-          🏖️ I'm a 24 years old developer from Málaga - Spain. 
+          🏖️ I'm a 24-year-old developer from Málaga, Spain.
         </li>
         <li>
-          🏫 Currently studying at 42 Málaga and IES Playamar.
+          🏫 Currently studying Multiplatform Application Development at IES Playamar and programming at 42 Málaga.
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/mabf2608?tab=repositories).
