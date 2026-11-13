@@ -35,13 +35,10 @@
       
 <p align="center">
   <a href="mailto:mabf2002@gmail.com">
-    <img src="https://img.shields.io/badge/mabf2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mabf2002@gmail.com" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/Gmail-mabf2002%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="https://www.linkedin.com/in/mabf2608">
-    <img src="https://img.shields.io/badge/-mabf2608-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mabf2608" alt="LinkedIn Badge">
-  </a>
-  <a href="https://github.com/mabf2608">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mabf2608" alt="GitHub Badge">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-mabf2608-0A66C2?style=flat-square&logo=linkedin-white" alt="LinkedIn Badge">
   </a>
 </p>
 
